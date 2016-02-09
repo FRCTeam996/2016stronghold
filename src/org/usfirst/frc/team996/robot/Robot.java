@@ -26,8 +26,7 @@ public class Robot extends IterativeRobot {
 	
 	RobotDrive chassis;
 	
-	
-	
+	//Hi this is kevin don't ude code 	
 	double driver1X;         //setting direction control for joy stick
     double driver1Y;			 //setting direction control for joy stick
     
